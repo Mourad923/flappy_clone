@@ -3,5 +3,5 @@
   push:
     branches:
       - master
-  with:
+
     folder: flappy_clone
